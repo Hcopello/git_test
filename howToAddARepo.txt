@@ -1,0 +1,15 @@
+Comandos basicos de git para agregar un repo.
+
+// Crear el repo
+
+desde la carpeta del proyecto: 
+
+//crea el repo
+$ git init 
+/agrega todos los documentos de la carpeta al repo
+$ git add . 
+// documenta el estado inicial como el primer commit en la historia del repo
+$git commit
+
+-
+
